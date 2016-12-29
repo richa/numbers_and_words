@@ -1,5 +1,0 @@
-require 'numbers_and_words/strategies/figures_converter/options/cz/hundreds_with_union'
-require 'numbers_and_words/strategies/figures_converter/options/cz/remove_hyphen'
-require 'numbers_and_words/strategies/figures_converter/options/cz/ordinal'
-require 'numbers_and_words/strategies/figures_converter/options/cz/pronounced'
-require 'numbers_and_words/strategies/figures_converter/options/cz/remove_zero'

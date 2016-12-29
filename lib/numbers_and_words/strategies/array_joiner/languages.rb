@@ -7,8 +7,8 @@ require 'numbers_and_words/strategies/array_joiner/languages/en_gb'
 require 'numbers_and_words/strategies/array_joiner/languages/hu'
 require 'numbers_and_words/strategies/array_joiner/languages/ru'
 require 'numbers_and_words/strategies/array_joiner/languages/ua'
-require 'numbers_and_words/strategies/array_joiner/languages/sl'
-require 'numbers_and_words/strategies/array_joiner/languages/cz'
+require 'numbers_and_words/strategies/array_joiner/languages/sk'
+require 'numbers_and_words/strategies/array_joiner/languages/cs'
 
 module NumbersAndWords
   module Strategies

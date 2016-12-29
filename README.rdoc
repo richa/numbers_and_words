@@ -33,8 +33,8 @@ I18n kütüphanesi ile sayıları yazıya çevirir.
 * Italiano** [it]
 * Nederlands** [nl]
 * Swedish** [se]
-* Slovak [sl]
-* Czech [cz]
+* Slovak [sk]
+* Czech [cs]
 * English (British)** [en-GB]
 
 ** Experimental

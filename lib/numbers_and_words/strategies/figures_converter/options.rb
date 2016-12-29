@@ -1,6 +1,6 @@
 require 'numbers_and_words/strategies/figures_converter/options/en'
-require 'numbers_and_words/strategies/figures_converter/options/sl'
-require 'numbers_and_words/strategies/figures_converter/options/cz'
+require 'numbers_and_words/strategies/figures_converter/options/sk'
+require 'numbers_and_words/strategies/figures_converter/options/cs'
 require 'numbers_and_words/strategies/figures_converter/options/en_gb'
 require 'numbers_and_words/strategies/figures_converter/options/ru'
 require 'numbers_and_words/strategies/figures_converter/options/ua'

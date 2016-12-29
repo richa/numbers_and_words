@@ -1,0 +1,5 @@
+require 'numbers_and_words/strategies/figures_converter/options/sk/hundreds_with_union'
+require 'numbers_and_words/strategies/figures_converter/options/sk/remove_hyphen'
+require 'numbers_and_words/strategies/figures_converter/options/sk/ordinal'
+require 'numbers_and_words/strategies/figures_converter/options/sk/pronounced'
+require 'numbers_and_words/strategies/figures_converter/options/sk/remove_zero'

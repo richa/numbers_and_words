@@ -20,8 +20,8 @@ require 'numbers_and_words/translations/lt'
 require 'numbers_and_words/translations/de'
 require 'numbers_and_words/translations/pt'
 require 'numbers_and_words/translations/ka'
-require 'numbers_and_words/translations/cz'
-require 'numbers_and_words/translations/sl'
+require 'numbers_and_words/translations/cs'
+require 'numbers_and_words/translations/sk'
 
 module NumbersAndWords
   module Translations

@@ -7,8 +7,8 @@ require 'numbers_and_words/strategies/figures_converter/languages/families/latin
 
 require 'numbers_and_words/strategies/figures_converter/languages/en'
 require 'numbers_and_words/strategies/figures_converter/languages/en_gb'
-require 'numbers_and_words/strategies/figures_converter/languages/cz'
-require 'numbers_and_words/strategies/figures_converter/languages/sl'
+require 'numbers_and_words/strategies/figures_converter/languages/cs'
+require 'numbers_and_words/strategies/figures_converter/languages/sk'
 require 'numbers_and_words/strategies/figures_converter/languages/fr'
 require 'numbers_and_words/strategies/figures_converter/languages/hu'
 require 'numbers_and_words/strategies/figures_converter/languages/et'
